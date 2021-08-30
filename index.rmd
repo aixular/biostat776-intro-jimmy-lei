@@ -1,0 +1,37 @@
+---
+title: "biostat776-intro-jimmy-lei"
+author: "Jimmy Lei"
+date: "8/30/2021"
+---
+
+This is the repository for Jimmy Lei in Biostat 776.
+***
+<br><br>
+Hello everyone! My name is Jimmy Lei and I am a first year MsC student in the Biostatistics Department at JHSPH.
+
+## Background
+***
+
+I grew up in Rockville, Maryland near Washington D.C., so I'm local but first time living in Baltimore. I graduated from the University of Maryland, College Park with a B.S. in Bioengineering. I then worked for 2 years as a postbaccalaureate researcher at the National Institute of Neurological Disorders and Stroke at the NIH studying the *Drosophila* larval visual circuit. If you're interested, here is an article I helped publish:
+
+https://www.nature.com/articles/s41467-021-22751-7
+
+## Training and Research Interests
+***
+
+Coming from a background of mostly biology, I have a lot of experience with wet lab and benchwork (PCR, gel extraction, genetics, etc). However, I've always been interested in applying computational methods and modeling to help better understand and visualize data.<br><br>Although my math and statistical theory may need a little catching up, I am proficient in Python (numpy, matplotlib, pandas) and Matlab.<br><br>I hope that this course will provide with a strong basis for using R to visualize, model, and interpret data. 
+
+## Five Fun Facts
+***
+1. I've ridden a camel.
+2. I've never broken a bone ever.
+3. I've biked the Golden Gate Bridge.
+4. I've eaten a $160 A5 wagyu steak. 
+5. I've enjoy a wide variety of music (classical, jazz, r&b, kpop/jpop, chinese classics, EDM, lofi, rap). 
+
+## Interesting youtube channel
+
+* https://www.youtube.com/c/FlatbushCats
+* https://www.flatbushcats.org/
+
+I am a cat person and I love watching videos and browsing images about cats. A friend recently showed me this youtube channel about a nonprofit organization based in Brooklyn called Flatbush Cats that is focused on TNR (trap, neuter, return) as well as helping to rescue and foster kittens in their local area. 
